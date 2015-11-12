@@ -2524,6 +2524,4 @@ declare module Immutable {
 
 }
 
-declare module "immutable" {
-  export = Immutable
-}
+export = Immutable
